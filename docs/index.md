@@ -102,3 +102,7 @@ Use the navigation on the left to explore.
 
 TotalMiner Community Hub is a **community documentation project**.  
 All game-related names, mechanics, and assets belong to their respective owners.
+---
+
+!!! info
+    🕒 **Last updated:** {{ git_revision_date_localized }}

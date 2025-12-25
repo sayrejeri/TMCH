@@ -3,6 +3,8 @@ site_description: Community-driven documentation for TotalMiner
 site_url: https://sayrejeri.github.io/TMCH/
 repo_url: https://github.com/sayrejeri/TMCH
 repo_name: sayrejeri/TMCH
+edit_uri: edit/main/docs/
+
 
 theme:
   name: material
@@ -19,6 +21,8 @@ theme:
     - search.suggest
     - content.code.copy
     - content.tabs.link
+    - content.action.edit
+    - content.action.view
 
   palette:
     - scheme: default
@@ -35,6 +39,8 @@ theme:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: false
 
 markdown_extensions:
   - admonition
@@ -67,9 +73,12 @@ nav:
   - Reference:
       - Glossary: reference/glossary.md
       - Changelog: reference/changelog.md
-      
+
   - Community:
     - Discord: community/discord.md
+
+  - Contributing: contributing.md
+
 
 extra:
   social:
