@@ -10,6 +10,20 @@
 </div>
 
 ---
+<div align="center">
+
+<a href="https://discord.gg/MWgeYF7Ymp" target="_blank" style="text-decoration:none;">
+<strong>💬 Join the TMCH Discord Community</strong>
+</a>
+
+<br><br>
+
+Ask questions, share discoveries, and help improve the documentation.
+
+</div>
+
+---
+
 
 # TotalMiner Community Hub
 

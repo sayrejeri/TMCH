@@ -67,3 +67,12 @@ nav:
   - Reference:
       - Glossary: reference/glossary.md
       - Changelog: reference/changelog.md
+      
+  - Community:
+    - Discord: community/discord.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/MWgeYF7Ymp
+      name: Join the TMCH Discord
