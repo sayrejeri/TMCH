@@ -94,7 +94,7 @@ If something does not make sense:
 - ask in the Discord
 
 Join the Discord here:  
-{{ discord_invite }}
+[{{ discord_invite }}]({{ discord_invite }})
 
 Community discussion helps improve the documentation over time.
 

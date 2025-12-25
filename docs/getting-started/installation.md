@@ -187,6 +187,6 @@ From here, you can safely:
 ## Need help?
 
 If setup doesn’t behave as expected:
-- ask in the Discord: {{ discord_invite }}
+- ask in the Discord: [{{ discord_invite }}]({{ discord_invite }})
 - include permission levels and area details
 - describe what works and what doesn’t

@@ -118,5 +118,5 @@ The individual or group with ultimate control over a world’s settings, permiss
 ## Want to add a term?
 
 If you think a term should be added or clarified:
-- Suggest it in Discord {{ discord_invite }}
+- Suggest it in Discord [{{ discord_invite }}]({{ discord_invite }})
 - Or use **Edit this page** to submit an improvement

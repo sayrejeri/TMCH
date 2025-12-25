@@ -202,6 +202,6 @@ Understanding those constraints is more important than understanding syntax.
 ## Need help?
 
 If a script isn’t working:
-- Ask in the Discord: {{ discord_invite }}
+- Ask in the Discord: [{{ discord_invite }}]({{ discord_invite }})
 - Share the script context and permissions
 - Describe what you expect vs what happens

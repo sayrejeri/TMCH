@@ -67,7 +67,7 @@ Even small fixes help.
 ## Where should I ask questions?
 
 For questions or discussion:
-- Join the Discord: {{ discord_invite }}
+- Join the Discord: [{{ discord_invite }}]({{ discord_invite }})
 - Post in **[#help-desk](https://discord.com/channels/1453625103920267378/1453625109980909661)** for help
 - Post in **[#suggestions](https://discord.com/channels/1453625103920267378/1453625110559985758)** for improvements or ideas
 
