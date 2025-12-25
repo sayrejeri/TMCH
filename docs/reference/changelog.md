@@ -66,7 +66,7 @@ For real-time discussion about changes:
 ## Reporting documentation changes
 
 If you believe a major change should appear in the changelog:
-- suggest it in Discord
+- suggest it in Discord {{ discord_invite }}
 - or include it when submitting a documentation update
 
 The changelog exists to highlight meaningful progress, not every small edit.

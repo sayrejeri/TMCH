@@ -3,7 +3,7 @@
 The **TMCH Discord** is the central place for discussion, questions, and community collaboration around **Total Miner Forge** and the documentation.
 
 Join here:  
-👉 https://discord.gg/MWgeYF7Ymp
+👉 {{ discord_invite }}
 
 ---
 

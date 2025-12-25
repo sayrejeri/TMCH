@@ -94,7 +94,7 @@ If something does not make sense:
 - ask in the Discord
 
 Join the Discord here:  
-https://discord.gg/MWgeYF7Ymp
+{{ discord_invite }}
 
 Community discussion helps improve the documentation over time.
 

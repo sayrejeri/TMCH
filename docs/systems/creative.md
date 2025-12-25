@@ -209,6 +209,6 @@ Understanding how Creative Mode interacts with Permissions and Scripting is key 
 ## Need help?
 
 If Creative Mode isn’t behaving as expected:
-- Ask in the Discord: https://discord.gg/MWgeYF7Ymp
+- Ask in the Discord: {{ discord_invite }}
 - Describe the permissions and area setup
 - Share what works and what doesn’t

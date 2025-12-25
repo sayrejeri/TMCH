@@ -238,6 +238,6 @@ A clear permission structure makes worlds safer, cleaner, and easier to manage.
 ## Need help?
 
 If you’re unsure how permissions are behaving:
-- Ask in the Discord: https://discord.gg/MWgeYF7Ymp
+- Ask in the Discord: {{ discord_invite }}
 - Check related system pages
 - Share details about your setup so others can help

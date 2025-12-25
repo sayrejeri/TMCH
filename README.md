@@ -1,66 +1,72 @@
 # TotalMiner Community Hub (TMCH)
 
-**TotalMiner Community Hub (TMCH)** is a community-driven documentation site for **Total Miner Forge**.  
-It exists to centralize guides, references, and explanations that help players, creators, and developers better understand the game’s systems.
+**TotalMiner Community Hub (TMCH)** is a community-driven documentation project for **Total Miner Forge**.
 
-This project is built and maintained by the community and is **not officially affiliated** with the developers of Total Miner.
+It exists to explain systems that are often confusing, undocumented, or scattered across different sources, including permissions, Creative Mode, scripting behavior, and world setup.
 
-🌐 **Live site:**  
+TMCH is **not an official project** and is maintained by the community.
+
+🌐 **Live documentation:**  
 https://sayrejeri.github.io/TMCH/
 
----
-
-## What you’ll find here
-
-TMCH aims to be a clear, easy-to-read reference for both new and experienced players, including:
-
-- Permissions and access systems  
-- Creative mode mechanics  
-- Scripting concepts and examples  
-- General gameplay explanations  
-- Community-discovered behaviors and tips  
-
-The goal is clarity first — no unnecessary fluff, just useful information.
+💬 **Join the Discord:**  
+{{ discord_invite }}
 
 ---
 
-## Why this exists
+## What’s documented
 
-Documentation for Total Miner has historically been spread across forums, Discord messages, and trial-and-error experimentation. TMCH brings that information together in one place so it’s:
+TMCH currently includes documentation for:
 
-- Easier to find  
-- Easier to understand  
-- Easier to expand over time  
+- Getting started and initial world setup
+- Permissions and access control
+- Creative Mode and Creative tools
+- Scripting behavior and limitations
+- Frequently asked questions (FAQ)
+- Glossary of common terms
+- Contribution guidelines
+- Community workflow via Discord
+- Documentation changelog
 
----
-
-## Built with
-
-- **MkDocs**
-- **Material for MkDocs**
-- **GitHub Pages**
-
-The site automatically deploys on every update using GitHub Actions.
+The documentation grows as the community shares discoveries and testing results.
 
 ---
 
-## Contributing
+## How to contribute
 
 Contributions are welcome.
 
-If you’d like to help improve the documentation:
-1. Fork the repository  
-2. Make your changes  
-3. Submit a pull request  
+You can contribute by:
+- fixing typos or unclear wording
+- expanding existing pages
+- documenting discovered behavior
+- suggesting new topics or improvements
 
-Even small fixes, clarifications, or new pages help a lot.
+The easiest way to contribute is to click **Edit this page** on any documentation page and submit a pull request.
+
+If you’re not comfortable editing files, you can suggest improvements in the Discord.
 
 ---
 
-## Disclaimer
+## Project structure
 
-TotalMiner Community Hub is a **fan-made, community project**.  
-All game names, mechanics, and references belong to their respective owners.
+This repository contains:
+- Markdown documentation (`docs/`)
+- MkDocs configuration (`mkdocs.yml`)
+- Automated deployment via GitHub Pages
+
+The site is built using **MkDocs Material** and deploys automatically on every push to the `main` branch.
+
+---
+
+## Credit and attribution
+
+**Total Miner** and **Total Miner Forge** are developed and maintained by the official Total Miner development team.
+
+This documentation project exists to support the community and preserve shared knowledge, but it does **not** replace or represent official developer documentation.
+
+For official information, updates, and contact details, visit:  
+http://www.totalminer.com/contact.html
 
 ---
 
