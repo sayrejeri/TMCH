@@ -3,3 +3,14 @@ site_description: Community-driven documentation for TotalMiner
 
 theme:
   name: material
+
+plugins:
+  - search
+
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Permissions: permissions.md
+  - Scripting: scripting.md
+  - FAQ: faq.md
