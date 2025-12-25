@@ -1,16 +1,69 @@
 site_name: TotalMiner Community Hub (TMCH)
 site_description: Community-driven documentation for TotalMiner
+site_url: https://sayrejeri.github.io/TMCH/
+repo_url: https://github.com/sayrejeri/TMCH
+repo_name: sayrejeri/TMCH
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  icon:
+    repo: fontawesome/brands/github
 
 plugins:
   - search
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
 
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
-  - Permissions: permissions.md
-  - Scripting: scripting.md
-  - FAQ: faq.md
+
+  - Getting Started:
+      - Overview: getting-started/overview.md
+      - Installation: getting-started/installation.md
+      - FAQ: faq.md
+
+  - Core Systems:
+      - Permissions: systems/permissions.md
+      - Creative Mode: systems/creative.md
+      - Scripting: systems/scripting.md
+
+  - Reference:
+      - Glossary: reference/glossary.md
+      - Changelog: reference/changelog.md
