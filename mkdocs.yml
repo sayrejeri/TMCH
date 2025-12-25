@@ -1,0 +1,5 @@
+site_name: TotalMiner Community Hub (TMCH)
+site_description: Community-driven documentation for TotalMiner
+
+theme:
+  name: material
