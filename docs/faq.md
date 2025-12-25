@@ -67,7 +67,7 @@ Even small fixes help.
 ## Where should I ask questions?
 
 For questions or discussion:
-- Join the Discord: https://discord.gg/MWgeYF7Ymp
+- Join the Discord: {{ discord_invite }}
 - Post in **[#help-desk](https://discord.com/channels/1453625103920267378/1453625109980909661)** for help
 - Post in **[#suggestions](https://discord.com/channels/1453625103920267378/1453625110559985758)** for improvements or ideas
 
@@ -110,6 +110,18 @@ The **Last updated** date on each page shows when it was most recently revised.
 
 Yes.  
 Major updates and changes are tracked in the **Changelog** section of the documentation.
+
+---
+
+## Will pages have comments or discussions?
+
+At the moment, TMCH does not include comments directly on documentation pages.
+
+Discussion and questions happen primarily in the Discord to keep documentation pages clean and focused.
+
+In the future, TMCH may add page-level discussions using GitHub Discussions (via a system like Giscus) for selected pages where long-term reference discussions are helpful.
+
+If this is added, it will be clearly documented and limited to appropriate sections.
 
 ---
 
